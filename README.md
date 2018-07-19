@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraymdh%2Flttng-ust.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraymdh%2Flttng-ust?ref=badge_shield)
+
 LTTng-UST
 =========
 
@@ -243,3 +245,7 @@ This package contains the following elements:
   - `snprintf`: an asynchronous signal-safe version of `snprintf()`.
   - `tests`: various test programs.
   - `tools`: home of `lttng-gen-tp`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraymdh%2Flttng-ust.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraymdh%2Flttng-ust?ref=badge_large)
